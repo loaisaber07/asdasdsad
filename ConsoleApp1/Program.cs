@@ -5,7 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            int x = 2; 
+            int x = 2;
+            int y = 4; 
         }
     }
 }
